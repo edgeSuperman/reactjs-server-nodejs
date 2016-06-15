@@ -1,0 +1,36 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "React is a JavaScript library for building user interfaces.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "firebase": "^3.0.4",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-init": "^0.3.2",
+    "hbs": "^4.0.0",
+    "node-jsx": "^0.13.3",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-tools": "^0.13.3",
+    "reactify": "^1.1.1",
+    "uglify": "^0.1.5"
+  },
+  "devDependencies": {
+    "firebase": "^3.0.5",
+    "grunt-browserify": "^5.0.0",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "webpack": "^1.13.1",
+    "wilddog": "^0.6.4"
+  }
+}
